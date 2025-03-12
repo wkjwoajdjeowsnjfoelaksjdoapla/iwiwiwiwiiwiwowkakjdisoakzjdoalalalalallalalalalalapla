@@ -1,5 +1,5 @@
 local whitelisted = {
-    "fe872507-4a98-4f52-ac6e-604d571a7abe",
+    "dc332fa30ae52648e7bc76c28d3edd0e796041b364e495423744dbbf109d1c20",
     "RE2"
 }
 return { whitelisted = whitelisted }
